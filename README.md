@@ -1,1 +1,1 @@
-Automatizando o player do Spotify
+Automatizando o player do Spotify.
